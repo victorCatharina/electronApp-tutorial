@@ -1,0 +1,22 @@
+{
+  "name": "electronapp-tutorial",
+  "version": "1.0.0",
+  "description": "my first electron app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorCatharina/electronApp-tutorial.git"
+  },
+  "author": "Victor Catharina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorCatharina/electronApp-tutorial/issues"
+  },
+  "homepage": "https://github.com/victorCatharina/electronApp-tutorial#readme",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
